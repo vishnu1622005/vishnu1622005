@@ -6,7 +6,8 @@
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300" />
 
 ### 🚀 About Me
-- 🎓 B.Tech in Artificial Intelligence and Data Science @ **Bannari Amman Institute of Technology**  
+- 🎓 B.Tech in Artificial Intelligence and Data Science
+-  @ **Bannari Amman Institute of Technology**  
 - 💻 Passionate about **AI, Machine Learning, and Full-Stack Development**. I enjoy building innovative projects that combine technology and creativity.  
 - 🛠️ Currently working on **AI Virtual Painting**, **License Plate Detection**, and exploring **real-time data-driven applications**.  
 - 🌱 Constantly learning new tools and frameworks like **Python, Angular, Node.js, MongoDB**, and improving my skills in **cloud computing and data analytics**.  
